@@ -1,5 +1,5 @@
-**Second-Hand Car Dealer SQL Project
-**
+**Second-Hand Car Dealer SQL Project**
+
 **Overview**
 
 This SQL project helps a second-hand car dealer manage and analyze their inventory data. It includes several SQL queries to answer key questions about car availability, fuel types, and inventory by year.
